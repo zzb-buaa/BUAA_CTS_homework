@@ -1,0 +1,6 @@
+../Core/Src/algorithm.c:13:6:maxim_heart_rate_only	12
+../Core/Src/algorithm.c:84:6:maxim_find_peaks	1
+../Core/Src/algorithm.c:90:6:maxim_peaks_above_min_height	8
+../Core/Src/algorithm.c:109:6:maxim_remove_close_peaks	6
+../Core/Src/algorithm.c:127:6:maxim_sort_ascend	4
+../Core/Src/algorithm.c:137:6:maxim_sort_indices_descend	4
